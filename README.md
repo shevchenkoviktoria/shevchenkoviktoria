@@ -71,7 +71,7 @@ A Next.js project bootstrapped with TypeScript for managing daily tasks.
 
 ---
 
-### **5. [Predict by the Name](https://github.com/shevchenkoviktoria/NextJs)**
+### [Predict by the Name](https://github.com/shevchenkoviktoria/NextJs)**
 
 An interactive application that predicts the likely origin of a name and estimates the user’s age based on the input.
 
