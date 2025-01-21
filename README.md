@@ -1,12 +1,19 @@
 <h1 align="center">Hi 👋, I'm Viktoria</h1>
 
-I'm a passionate Front-End Developer who focuses on building responsive, user-friendly web applications. I have experience working with a variety of technologies, and I’m always eager to learn new skills and contribute to meaningful projects.
-
+I am dedicated Front-End Developer who creates interactive and user-friendly web applications. I have worked with a range of technologies and look forward to learning more and contributing to interesting projects.
 
 ## 🚀 Tech Stack:
-<p align="center"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="background-color: white; padding: 4px;"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/icons/icon_32x32.png" alt="cypress" width="40" height="40"/> </a> </p>
-  
+<p align="center"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="background-color: white; padding: 4px;"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/icons/icon_32x32.png" alt="cypress" width="40" height="40"/> </a> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a> </p>
+
 ---
+
+
+## 🌍 Contacts:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg)](https://www.linkedin.com/in/viktoriia-shevchenko-/)
+[![Email](https://img.shields.io/badge/Email-viktoriia_shevchenko%40ukr.net-orange.svg)](mailto:viktoriia_shevchenko@ukr.net)
+
+---
+
 
 ## 🧑‍💻 Projects:
 
@@ -42,7 +49,7 @@ An authenticated web app for searching and viewing book details in a structured 
 
 ---
 
-### [Message Board Application](https://github.com/shevchenkoviktoria/message-board)
+### [Message Board Application](https://github.com/shevchenkoviktoria/Poor_Slack_app)
 A React-based single-page application with a Node.js backend that implements multi-channel message boards.
 
 #### Features:
@@ -55,7 +62,7 @@ A React-based single-page application with a Node.js backend that implements mul
 
 ---
 
-### [Todo App](https://github.com/shevchenkoviktoria/NextJs)
+### [Todo App](https://github.com/shevchenkoviktoria/todo-app)
 A Next.js project bootstrapped with TypeScript for managing daily tasks.
 
 #### Key Features:
@@ -63,14 +70,24 @@ A Next.js project bootstrapped with TypeScript for managing daily tasks.
 - Written in React with TypeScript
 
 ---
+
+### **5. [Predict by the Name](https://github.com/shevchenkoviktoria/NextJs)**
+
+An interactive application that predicts the likely origin of a name and estimates the user’s age based on the input.
+
+**Features:**
+- Predicts the cultural or geographical origin of a name.
+- Provides an age estimate based on common demographic trends.
+- Engaging, user-friendly interface for quick predictions.
+
+**Technologies Used:**
+- **Frontend:** React, TypeScript
+- **Backend:** Node.js, Express
+- **Database:** MongoDB
+- **Tools:** Postman, Docker
+
 ## 📊 GitHub Stats:
 ![Contribution Stats](https://github-readme-stats.vercel.app/api?username=shevchenkoviktoria&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true)
-
----
-
-## 🌍 Contacts:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg)](https://www.linkedin.com/in/viktoriia-shevchenko-/)
-[![Email](https://img.shields.io/badge/Email-viktoriia_shevchenko%40ukr.net-orange.svg)](mailto:viktoriia_shevchenko@ukr.net)
 
 ---
 
