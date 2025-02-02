@@ -86,6 +86,24 @@ An interactive application that predicts the likely origin of a name and estimat
 - **Database:** MongoDB
 - **Tools:** Postman, Docker
 
+### [What’s your perfect boiled egg](https://github.com/shevchenkoviktoria/egg-boiler)
+
+A simple and fun React application that allows you to select different boiling times for your egg. Whether you want a soft, liquid, or hard-boiled egg, this app will help you manage your boiling time and let you know when your egg is ready!
+
+**Features:**
+
+- **Choose your egg type**: Select from different boiling times (Soft, Liquid, Softly Set, Hard, etc.).
+- **Timer**: Visual countdown timer that updates every second.
+- **Animation**: A cute rotating egg icon while the egg is boiling.
+- **Circular progress bar**: Displays progress as your egg boils.
+- **Alert**: Once the egg is done, an alert sound notifies you that your egg is ready!
+
+**Technologies Used:**
+- **React** - JavaScript library for building user interfaces.
+- **Material-UI** - React components for faster and easier web development.
+- **Framer Motion** - For smooth and interactive animations (used for rotating the egg).
+- **TypeScript** - For static typing, helping with reliability and maintainability.
+
 ## 📊 GitHub Stats:
 ![Contribution Stats](https://github-readme-stats.vercel.app/api?username=shevchenkoviktoria&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true)
 
