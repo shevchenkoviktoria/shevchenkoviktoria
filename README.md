@@ -86,6 +86,9 @@ An interactive application that predicts the likely origin of a name and estimat
 - **Database:** MongoDB
 - **Tools:** Postman, Docker
 
+---
+
+
 ### [What’s your perfect boiled egg](https://github.com/shevchenkoviktoria/egg-boiler)
 
 A simple and fun React application that allows you to select different boiling times for your egg. Whether you want a soft, liquid, or hard-boiled egg, this app will help you manage your boiling time and let you know when your egg is ready!
