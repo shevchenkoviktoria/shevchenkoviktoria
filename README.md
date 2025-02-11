@@ -81,8 +81,8 @@ An interactive application that predicts the likely origin of a name and estimat
 - Engaging, user-friendly interface for quick predictions.
 
 **Technologies Used:**
-- **Frontend:** React, TypeScript
-- **Backend:** Node.js, Express
+- **Frontend:** React 
+- **Backend:** NextJs
 - **Database:** MongoDB
 - **Tools:** Postman, Docker
 
